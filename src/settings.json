@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower Your Workforce with Innovative Solutions",
+        "title": "Transform Your Workspace"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Workspace",
+  "subtitle": "Empower Your Workforce with Innovative Solutions"
+}
